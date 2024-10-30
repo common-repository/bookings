@@ -1,0 +1,38 @@
+#zingiri-help {
+	width: 49%;
+	float:right;
+}
+
+#zingiri-help li {
+	display: inline;
+	float: left;
+	padding-right: 1em;
+}
+
+.cc-left {
+	position: relative;
+	float: left;
+	width: 49%;
+	margin-right: 2%;
+}
+
+.cc-right {
+	position: relative;
+	float: right;
+	width: 49%;
+}
+
+#bookings-frame {
+	width: calc(100% - 20px);
+	height:720px;
+}
+
+.bookings-sharethelove {
+	float: left; 
+	position: relative;
+}
+
+.bookings-sharethelove-wp img {
+	vertical-align: middle;
+	height: 1.5em;
+}
